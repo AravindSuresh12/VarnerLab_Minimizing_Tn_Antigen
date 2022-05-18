@@ -1,5 +1,5 @@
 # VarnerLab_Minimizing_Tn_Antigen
-Part of my CHEME7770 project, and also a small part of my thesis work (not completely)
+CHEME7770 project-
 
 This file has source code for CHEME7770 Project- "Minimization of Tn and T antigen production by Metabolic Flux Balance Analysis"
 
@@ -44,3 +44,5 @@ Optimizer.m- The optimizer
 SourceCode
 
 Contains the files that are in Model, for 4 systems of interest
+
+Project team: as2625 and krp57
